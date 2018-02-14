@@ -1,7 +1,7 @@
 # random-quote-machine-website
-This is a freeCodeCamp project
-Live version is available here: https://nelias.github.io/random-quote-machine-website/
-and here: https://codepen.io/Nergorn/full/XZaQbG/
+This is a freeCodeCamp project <br />
+Live version is available here: https://nelias.github.io/random-quote-machine-website/ <br />
+and here: https://codepen.io/Nergorn/full/XZaQbG/ <br />
 
 Here is a little preview:
 
