@@ -19,7 +19,7 @@ body {
 
 .click-button-text {
   font-family: 'Almendra', serif;
-  word-spacing: 10px;
+  word-spacing: 0.6vw;
   font-size: 2vw;
   padding-left: 11.3vw;
   padding-top: 0.5vw;
