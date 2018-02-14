@@ -1,0 +1,72 @@
+body {
+  width: 99%;
+  padding: 0;
+  margin: 0;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/e/e2/OrteliusWorldMap1570.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  overflow: hidden;
+}
+
+.click-button {
+  margin-top: 3.5vw;
+  margin-left: 20vw;
+  width: 58.8vw;
+  background: linear-gradient(0deg, #686532, #28303b, #344453, #28303b, #28303b, #344453, #28303b,  #686532);
+  color: #caaa77;
+  border-radius: 3px;
+}
+
+.click-button-text {
+  font-family: 'Almendra', serif;
+  word-spacing: 10px;
+  font-size: 2vw;
+  padding-left: 11.3vw;
+  padding-top: 0.5vw;
+  padding-bottom: 0.5vw;
+}
+
+.golden-quote-container {
+  position: static;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 14%;
+  width: 30vw;
+  background: linear-gradient(20deg, #e3cba8, #9e7f42, #d0a765, #f3ddc5, #cdac66, #896733, #d6b372, #caab74);
+  border-radius: 15px;
+  padding-left: 2.2vw;
+  padding-right: 2.2vw;
+  padding-top: 0.01vw;
+  padding-bottom: 0.01vw;
+  text-shadow: 2px 1px #8e8865;
+  text-align: justify;
+  color: #202833;
+  font-family: 'Almendra', serif;
+  font-size: 0.9vw;
+}
+
+.twitter-share-button {
+  font-family: 'Almendra', serif;
+  font-size: 1.5vw;
+  font: bold;;
+  color: #344453;
+  background: linear-gradient(-50deg, #e3cba8, #9e7f42, #d0a765, #f3ddc5, #cdac66, #896733, #d6b372, #caab74);
+  border-radius: 5px;
+  padding-left: 0.6vw;
+  padding-right: 0.6vw;
+  margin-left: 46vw;
+  text-decoration: none !important;
+}
+
+#twitter-icon {
+  width: 1.4vw;
+  margin-top: 0.6vw;
+  padding-top: 0.6vw;
+  margin-bottom: -0.25vw;
+  margin-left: -0.2vw;
+}
+
+#quote-button:hover {
+  color: white;
+  cursor: pointer;
+}
